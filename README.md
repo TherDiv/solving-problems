@@ -1,6 +1,6 @@
 # solving-problems
 
-I am learning about LeetCode problems, and I am going to share my progress in different programming languages here
+I am learning about LeetCode problems, I will share my progress in different programming languages here
 
 Here are some resources I am using to improve my skills: 
 
